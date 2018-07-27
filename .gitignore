@@ -1,0 +1,8 @@
+Build/
+xcuserdata/
+Carthage/
+Pods/
+*.xcworkspace
+
+WatsonChatbotiOSStarter-Swift/WatsonChatbotiOSStarter/BMSCredentials.plist
+ios_swift/WatsonChatbotiOSStarter/BMSCredentials.plist
